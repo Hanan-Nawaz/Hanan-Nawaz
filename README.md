@@ -30,7 +30,7 @@
 <br/>
 
 <h3 align="left">Github Profile Statistics 📈 </h3>
-<p align="center" ><img align="center" height=120 src="https://github-readme-stats.vercel.app/api/top-langs?username=hanan-nawaz&show_icons=true&locale=en&layout=compact" alt="hanan-nawaz" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanan-nawaz&show_icons=true&locale=en" height=120 alt="hanan-nawaz" /> &nbsp;<img align="center" height=120 src="https://github-readme-streak-stats.herokuapp.com/?user=hanan-nawaz&" alt="hanan-nawaz" /></p>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=hanan-nawaz&show_icons=true&locale=en" height=150 alt="hanan-nawaz" /> &nbsp;<img align="center" height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=hanan-nawaz&" alt="hanan-nawaz" /></p>
 
 <br/>
 
