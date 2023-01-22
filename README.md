@@ -26,6 +26,9 @@
 
 <h3 align="left">Connect with me 🤝🏻 </h3>
 <p align="center">
-<a href="https://twitter.com/hanannawaz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hanannawaz0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdulhanan0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulhanan0" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdulhanan0/"><img src="https://img.shields.io/badge/-Abdul%20Hanan%20Nawaz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:russs3400@gmail.com"><img src="https://img.shields.io/badge/-Abdul Hanan Nawaz-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/hanan__nawaz"><img src="https://img.shields.io/badge/-@hanan__nawaz-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/hanannawaz0"><img src="https://img.shields.io/badge/-@hanannawaz0-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
+
