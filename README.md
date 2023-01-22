@@ -40,7 +40,7 @@
 <a href="mailto:hanannawa0@gmail.com"><img src="https://img.shields.io/badge/-Abdul Hanan Nawaz-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/hanan__nawaz"><img src="https://img.shields.io/badge/-@hanan__nawaz-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/hanannawaz0"><img src="https://img.shields.io/badge/-@hanannawaz0-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://hanannawaz.com"><img src="https://img.shields.io/badge/-Portfolio-1877F2?style=flat&logo=globe&logoColor=white"/></a>
+<a href="https://hanannawaz.com"><img src="https://img.shields.io/badge/-Portfolio-1877F2?style=flat&logo=Passport&logoColor=white"/></a>
 </p>
 
 <br/>
