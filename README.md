@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Abdul Hanan Nawaz</h1>
 <h3 align="center">A Meta Certified Android developer</h3>
-<img alt="Coder GIF" height=350 width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<img alt="Coder GIF" allign="right" height=300 width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 - 🌱 I’m currently learning **React Native**
 
