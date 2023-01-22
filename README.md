@@ -1,7 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-<h1 align="center">Hi 👋, I'm Abdul Hanan Nawaz</h1>
-
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm Abdul Hanan Nawaz</h1>
 <h3 align="center">I'm Meta Certified Android Developer from 🇵🇰</h3>
 
 <br/>
@@ -12,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://hanannawaz.com](https://hanannawaz.com)
 
-- 💬 Ask me about **Android and Kotlin**
+- 💬 Ask me about **Anything**
 
-- 📫 How to reach me **hanannawaz0@gmail.com**
+- 🤔 I’m looking for help with in Native and Hybrid App Development
 
-- 📄 Know about my experiences [https://hanannawaz.com](https://hanannawaz.com)
+- 🔭 I’m contributing towards open source.
 
 <br/>
 
