@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm Abdul Hanan Nawaz</h1>
-<h3 align="center">I'm <img src="https://www.citypng.com/public/uploads/preview/hd-meta-facebook-white-logo-png-116403446124ydgyipr3u.png" width=50 /> Certified Android Developer from 🇵🇰</h3>
+<h3 align="center">I'm <img src="https://www.citypng.com/public/uploads/preview/hd-meta-facebook-white-logo-png-116403446124ydgyipr3u.png" width=40 /> Certified Android Developer from 🇵🇰</h3>
 
 <br/>
 
@@ -31,18 +31,14 @@
 
 <h3 align="left">Github Profile Statistics 📈 </h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hanan-nawaz&show_icons=true&theme=radical" height=200 width=400/>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanan-nawaz&theme=radical" height=200 width=400/>                                                                                                           
-
-<br/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hanan-nawaz&show_icons=true&theme=radical" height=200 width=400/>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanan-nawaz&theme=radical" height=200 width=400/> </p>                                                                                                        
 
 <h3 align="left">My Education Status 📚 </h3>
-
 <p>⌚ BS (SE) from National University of Modern Languages, Islamabad (Passout-24) [3.68/4.00] </p>
 <p>🏆 FSC (Pre-Engneering) from Punjab College, Gujranwala (Passout-20) [82.27%] </p>
 <p>⌛ Class 10th from Angels School System, Daska (Passout-18) [85.9%] </p>
 
 <br/>
-
 <h3 align="left">Connect with me 🤝🏻 </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/abdulhanan0/"><img src="https://img.shields.io/badge/-Abdul%20Hanan%20Nawaz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
