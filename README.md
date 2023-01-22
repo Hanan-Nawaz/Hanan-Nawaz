@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Abdul Hanan Nawaz</h1>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=I'm+a+Meta+Certified+Android+Developer;Freelancer;" alt="Typing SVG" /></a> </p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=1000&center=true&vCenter=true&width=535&lines=I'm+a+Meta+Certified+Android+Developer;Freelancer;" alt="Typing SVG" /></a> </p>
 
 <img alt="Coder GIF" align="right" height=200 width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
