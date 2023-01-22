@@ -1,12 +1,8 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-<br/>
+<h1 align="center">Hi 👋, I'm Abdul Hanan Nawaz</h1>
 
-<h1 align="center">Hi 👋, I'm Abdul Hanan Nawaz from 🇵🇰</h1>
-
-<br/>
-
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=900&center=true&vCenter=true&width=535&lines=I'm+a+Meta+Certified+Android+Developer;Freelancer;" alt="Typing SVG" /></a> </p>
+<h3 align="center">I'm Meta Certified Android Developer from 🇵🇰</h3>
 
 <br/>
 
@@ -29,8 +25,22 @@
 
 <br/>
 
+<h3 align="left">Productivity Stats📈</h3>
+<p align="center" ><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hanan-Nawaz&theme=monokai"  display=block width=500 height=auto  alt="1" ></p>
+
+<br/>
+
 <h3 align="left">Github Profile Statistics 📈 </h3>
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=hanan-nawaz&show_icons=true&locale=en" height=150 alt="hanan-nawaz" /> &nbsp;<img align="center" height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=hanan-nawaz&" alt="hanan-nawaz" /></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=hanan-nawaz&show_icons=true&theme=radical" height=200 width=500/>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanan-nawaz&theme=radical" height=200 width=500/>                                                                                                           
+
+<br/>
+
+<h3 align="left">My Education Status 📚 </h3>
+
+<p>⌚ BS (SE) from National University of Modern Languages, Islamabad (Passout-24) [3.68/4.00] </p>
+<p>🏆 FSC (Pre-Engneering) from Punjab College, Gujranwala (Passout-20) [82.27%] </p>
+<p>⌛ Class 10th from Angels School System, Daska (Passout-18) [85.9%] </p>
 
 <br/>
 
@@ -51,4 +61,8 @@
 <a href="https://www.fiverr.com/abdulhanan90"><img src="https://img.shields.io/badge/-Abdul%20Hanan%20Nawaz-00b22d?style=flat&logo=Fiverr&logoColor=white"/></a>
 
 </p>
+
+<br/>
+
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=900&center=true&vCenter=true&width=635&lines=Thanks+for+visiting+my+profile+🖤;" alt="Typing SVG" /></a> </p>
 
