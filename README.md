@@ -6,7 +6,7 @@
 
 <br/>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&pause=500&center=true&vCenter=true&width=535&lines=I'm+a+Meta+Certified+Android+Developer;Freelancer;" alt="Typing SVG" /></a> </p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=900&center=true&vCenter=true&width=535&lines=I'm+a+Meta+Certified+Android+Developer;Freelancer;" alt="Typing SVG" /></a> </p>
 
 <br/>
 
