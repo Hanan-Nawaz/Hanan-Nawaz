@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm Abdul Hanan Nawaz</h1>
-<h3 align="center">I'm Meta Certified Android Developer from 🇵🇰</h3>
+<h3 align="center">I'm <img src="https://www.citypng.com/public/uploads/preview/hd-meta-facebook-white-logo-png-116403446124ydgyipr3u.png" width=50 /> Certified Android Developer from 🇵🇰</h3>
 
 <br/>
 
