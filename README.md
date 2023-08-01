@@ -1,19 +1,19 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQFaSuw5mo11lg/profile-displaybackgroundimage-shrink_350_1400/0/1682064619140?e=1693440000&v=beta&t=cSWhMLICHFqNgYH7hO5frx0M9xbjLvg3IB6CWmf2pmU)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQFp247RtWGM-g/profile-displaybackgroundimage-shrink_350_1400/0/1690902014378?e=1696464000&v=beta&t=xyBHLb09DezpBNBCRB77xVnsB39k9XHOXb5rSitXh54)
 
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm Abdul Hanan Nawaz</h1>
-<h3 align="center">I'm React Developer from 🇵🇰</h3>
+<h3 align="center">Data Engineer</h3>
 <br/>
 
 <img alt="Coder GIF" align="right" height=200 width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Apache Spark**
 
 - 👨‍💻 All of my projects are available at [https://hanannawaz.com](https://hanannawaz.com)
 
 - 💬 Ask me about **Anything**
 
-- 🤔 I’m looking for help with in React
+- 🤔 I’m looking for help with in Apache Kafka
 
 - 🔭 I’m contributing towards open source.
 
@@ -34,7 +34,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hanan-nawaz&show_icons=true&theme=radical" height=200 width=400/>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanan-nawaz&theme=radical" height=200 width=400/> </p>                                                                                                        
 
 <h3 align="left">My Education Status 📚 </h3>
-<p>⌛ BS (SE) from National University of Modern Languages, Islamabad (Passout-24) [3.70/4.00] </p>
+<p>⌛ BS (SE) from National University of Modern Languages, Islamabad (Passout-24) [3.71/4.00] </p>
 <p>🏆 FSC (Pre-Engneering) from Punjab College, Gujranwala (Passout-20) [82.27%] </p>
 <p>🏆 Class 10th from Angels School System, Daska (Passout-18) [85.9%] </p>
 
