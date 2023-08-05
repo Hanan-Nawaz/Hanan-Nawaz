@@ -1,5 +1,5 @@
 
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQGCPC_msYEFTg/profile-displaybackgroundimage-shrink_350_1400/0/1691236647953?e=1696464000&v=beta&t=ler84bM-j-aUcwikusH6UO7Rx7pku5EKK8NKVYickEg)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQGyfq0UdW44Dg/profile-displaybackgroundimage-shrink_350_1400/0/1691237352672?e=1696464000&v=beta&t=8VShN49kQ9GBL5MkJgzBSZCwkduPnGLMy4YSrzXZVPY)
 
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm Abdul Hanan Nawaz</h1>
