@@ -32,7 +32,7 @@
 
 <h3 align="left">Github Profile Statistics 📈 </h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hanan-nawaz&show_icons=true&theme=radical" height=200 width=400/>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanan-nawaz&theme=radical" height=200 width=400/> </p>                                                                                                        
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hanan-nawaz&theme=radical" height=200 width=400/> </p>                                                                                                        
 
 <h3 align="left">My Education Status 📚 </h3>
 <p>⌛ BS (SE) from National University of Modern Languages, Islamabad (Passout-24) [3.71/4.00] </p>
