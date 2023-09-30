@@ -1,12 +1,12 @@
 
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQGyfq0UdW44Dg/profile-displaybackgroundimage-shrink_350_1400/0/1691237352672?e=1696464000&v=beta&t=8VShN49kQ9GBL5MkJgzBSZCwkduPnGLMy4YSrzXZVPY)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQFfiipCpXYxdQ/profile-displaybackgroundimage-shrink_350_1400/0/1696010263139?e=1701302400&v=beta&t=AzQ-OZ48m5njTmVNOL8SJh1wOZpGs6nzIVC5jZj5tls)
 
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm Abdul Hanan Nawaz</h1>
 <h3 align="center">Data Engineer</h3>
 <br/>
 
-<img alt="Coder GIF" align="right" height=200 width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<img alt="Coder GIF" align="right" height=200 width=400 src="https://media4.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e475n1si88j5osoaxt89p50qwjmcgodndlfqvsayrhm&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 - 🌱 I’m currently learning **Apache Spark**
 
