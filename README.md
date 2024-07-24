@@ -1,5 +1,5 @@
 
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQFfiipCpXYxdQ/profile-displaybackgroundimage-shrink_350_1400/0/1696010266211?e=1711584000&v=beta&t=T3zu_Zv4PjVL80yINHum5MXJNaOWcaKb6C3W8WE08Wg)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQFfiipCpXYxdQ/profile-displaybackgroundimage-shrink_350_1400/0/1696010266211?e=1727308800&v=beta&t=3zBXFYH4EkjdXCaxZFM17fUVRXCMGjfQ5IjeG2EsK7o)
 
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm Abdul Hanan Nawaz</h1>
@@ -35,7 +35,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hanan-nawaz&theme=radical" height=200 width=400/> </p>                                                                                                        
 
 <h3 align="left">My Education Status 📚 </h3>
-<p>⌛ BS (SE) from National University of Modern Languages, Islamabad (Passout-24) [3.71/4.00] </p>
+<p>⌛ BS (Software Enginnering) from National University of Modern Languages, Islamabad (Passout-24) [3.78/4.00] </p>
 <p>🏆 FSC (Pre-Engneering) from Punjab College, Gujranwala (Passout-20) [82.27%] </p>
 <p>🏆 Class 10th from Angels School System, Daska (Passout-18) [85.9%] </p>
 
