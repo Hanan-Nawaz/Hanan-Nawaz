@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Apache Spark**
 
-- 👨‍💻 All of my projects are available at [https://hanannawaz.com](https://hanannawaz.com)
+- 👨‍💻 All of my projects are available at [https://hanannawaz.me](https://hanannawaz.me)
 
 - 💬 Ask me about **Anything**
 
