@@ -35,7 +35,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hanan-nawaz&theme=radical" height=200 width=400/> </p>                                                                                                        
 
 <h3 align="left">My Education Status 📚 </h3>
-<p>⌛ BS (Software Enginnering) from National University of Modern Languages, Islamabad (Passout-24) [3.78/4.00] </p>
+<p>🏆 BS (Software Enginnering) from National University of Modern Languages, Islamabad (Passout-24) [3.78/4.00] </p>
 <p>🏆 FSC (Pre-Engneering) from Punjab College, Gujranwala (Passout-20) [82.27%] </p>
 <p>🏆 Class 10th from Angels School System, Daska (Passout-18) [85.9%] </p>
 
