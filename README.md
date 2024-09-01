@@ -1,5 +1,5 @@
 
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQFfiipCpXYxdQ/profile-displaybackgroundimage-shrink_350_1400/0/1696010266211?e=1727308800&v=beta&t=3zBXFYH4EkjdXCaxZFM17fUVRXCMGjfQ5IjeG2EsK7o)
+![MasterHead](https://github.com/Hanan-Nawaz/Hanan-Nawaz/blob/main/Supporting%20Material/bg.png)
 
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm Abdul Hanan Nawaz</h1>
