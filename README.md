@@ -1,4 +1,4 @@
-
+<img src="https://github.com/Hanan-Nawaz/Hanan-Nawaz/blob/main/Supporting%20Material/banner.png?raw=true" alt="Banner" width="100%"/>
 <h1 align="center">Hi 👋, I'm Abdul Hanan Nawaz</h1>
 
 <p align="center">
