@@ -17,7 +17,7 @@
 ### 🙋‍♂️ About Me
 
 - 🎓 Master's student in **Computer Science (Informatik)** at Frankfurt University of Applied Sciences
-- ⚡ **Werkstudent (hiwi)** in a green hydrogen research group, working on techno-economic analysis with Python
+- ⚡ **Student Research Assistant (HiWi)** in the Water Splitting Group at FSU Jena, validating models and data for hydrogen cost analysis with Python
 - 🤖 Interested in **Data Science, Machine Learning and AI applications (LLMs & RAG)**
 - 🌍 Languages: **English** (fluent) · **German** (B1, working towards B2)
 
